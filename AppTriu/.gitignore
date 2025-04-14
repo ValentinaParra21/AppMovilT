@@ -1,0 +1,75 @@
+# Permitir la carpeta .vscode
+!.vscode/
+
+# Permitir la carpeta .alcache
+!.alcache/
+
+# Permitir la carpeta .alpackages
+!.alpackages/
+
+# Permitir la carpeta .snapshots
+!.snapshots/
+
+# Permitir la carpeta .output
+!.output/
+
+# Permitir archivos .app
+!*.app
+
+# Permitir el archivo rad.json
+!rad.json
+
+# Permitir archivos de traducción .g.xlf
+!*.g.xlf
+
+# Permitir archivos de licencia .flf
+!*.flf
+
+# Permitir el archivo de resultados de prueba TestResults.xml
+!TestResults.xml
+
+# Permitir la carpeta node_modules (aunque generalmente se ignora por ser dependencias)
+!node_modules/
+
+# Permitir la carpeta .expo
+!.expo/
+
+# Permitir la carpeta dist
+!dist/
+
+# Permitir la carpeta web-build
+!web-build/
+
+# Permitir archivo expo-env.d.ts
+!expo-env.d.ts
+
+# Permitir archivos .orig.*, .jks, .p8, .p12, .key, .mobileprovision
+!*.orig.*
+!*.jks
+!*.p8
+!*.p12
+!*.key
+!*.mobileprovision
+
+# Permitir la carpeta .metro-health-check*
+!.metro-health-check*
+
+# Permitir archivos npm-debug.*, yarn-debug.*, yarn-error.*
+!npm-debug.*
+!yarn-debug.*
+!yarn-error.*
+
+# Permitir archivos .DS_Store
+!.DS_Store
+
+# Permitir archivos .pem
+!*.pem
+
+# Permitir archivos .env*.local
+!.env*.local
+
+# Permitir archivos *.tsbuildinfo (comúnmente ignorados por TypeScript)
+!*.tsbuildinfo
+
+# Permitir todos los archivos .app (si no están permitidos aún)
+!*.app
